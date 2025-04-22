@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hey its skite 
+Hey My Name is Jaffar 
 <!--
 **SkiteJ/SkiteJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
